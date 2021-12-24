@@ -1,3 +1,3 @@
 # vrtp
 
-vrtps is shrot for V.R. Transfer Protocol
+vrtps is short for V.R. Transfer Protocol
